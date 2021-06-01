@@ -49,4 +49,4 @@ plt.fill_between(x_ts.flatten(),
 plt.scatter(x_tr,y_tr,color="black")
 
 plt.tight_layout()
-plt.savefig("fig.pdf")
+plt.savefig("fig.png")
