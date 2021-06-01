@@ -9,7 +9,8 @@ This project runs with Python 3.6. Before running the code, you have to install 
 ## Experiments
 
 ![](fig.png)
-The synthetic experiment can be reproduced by running the run.py file: ```python run.py``` 
+
+The synthetic experiment can be reproduced by running the run.py file (auNN-RBF and auNN-TRI in Figure 3 of the paper): ```python run.py``` 
 
 ## Citation
 
